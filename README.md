@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sametozeren&label=Profile%20views&color=0e75b6&style=flat" alt="sametozeren" /> </p>
 
-- 🌱 I’m currently learning **vuejs, svelte, react expressjs, nodejs**
+- 🌱 I’m currently learning **vuejs, svelte, react, expressjs, nodejs**
 
 - 📫 How to reach me **sametozrn@gmail.com**
 
