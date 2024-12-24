@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A passionate javascript developer from Ankara/Turkey</h3>
 
-- 🌱 I’m currently learning **vuejs, svelte, react, expressjs, nodejs**
+- 🌱 I’m currently learning **vuejs, expressjs, nodejs, laravel, php**
 
 - 📫 How to reach me **sametozrn@gmail.com**
 
